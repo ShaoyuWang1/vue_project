@@ -1,0 +1,1 @@
+import{_ as t,c as s,a,m as c,o}from"./DZzaAX0g.js";const n={},r={class:"mx-auto flex min-h-[max(100vh,320px)] min-w-80 max-w-[1800px] flex-col items-center justify-around gap-16 p-4 lg:p-8"},l={class:"mt-[10vh] text-center"};function m(e,i){return o(),s("div",r,[a("main",l,[c(e.$slots,"default")])])}const d=t(n,[["render",m]]);export{d as default};
